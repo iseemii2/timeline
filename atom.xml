@@ -3,11 +3,11 @@
   <title>I see Mii2</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://iseemii2.github.io/tl/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://iseemii2.github.io/tl/"/>
   <updated>2020-09-09T23:41:50.602Z</updated>
-  <id>http://example.com/</id>
+  <id>https://iseemii2.github.io/tl/</id>
   
   <author>
     <name>_sand</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>test</title>
-    <link href="http://example.com/2020/09/09/fir/"/>
-    <id>http://example.com/2020/09/09/fir/</id>
+    <link href="https://iseemii2.github.io/tl/2020/09/09/fir/"/>
+    <id>https://iseemii2.github.io/tl/2020/09/09/fir/</id>
     <published>2020-09-09T23:39:29.000Z</published>
     <updated>2020-09-09T23:41:50.602Z</updated>
     
@@ -34,14 +34,14 @@
     
     
     
-    <category term="mii2" scheme="http://example.com/tags/mii2/"/>
+    <category term="mii2" scheme="https://iseemii2.github.io/tl/tags/mii2/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2020/09/09/hello-world/"/>
-    <id>http://example.com/2020/09/09/hello-world/</id>
+    <link href="https://iseemii2.github.io/tl/2020/09/09/hello-world/"/>
+    <id>https://iseemii2.github.io/tl/2020/09/09/hello-world/</id>
     <published>2020-09-09T22:44:47.263Z</published>
     <updated>2020-09-09T22:44:47.264Z</updated>
     
