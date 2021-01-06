@@ -6,7 +6,7 @@
   <link href="https://iseemii2.github.io/timeline/atom.xml" rel="self"/>
   
   <link href="https://iseemii2.github.io/timeline/"/>
-  <updated>2021-01-06T03:15:51.589Z</updated>
+  <updated>2021-01-06T05:35:12.574Z</updated>
   <id>https://iseemii2.github.io/timeline/</id>
   
   <author>
@@ -17,45 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://iseemii2.github.io/timeline/2020/09/09/hello-world/"/>
-    <id>https://iseemii2.github.io/timeline/2020/09/09/hello-world/</id>
-    <published>2020-09-09T22:44:47.263Z</published>
-    <updated>2021-01-06T03:15:51.589Z</updated>
+    <title>DAIQUIRI</title>
+    <link href="https://iseemii2.github.io/timeline/1901/01/01/1/"/>
+    <id>https://iseemii2.github.io/timeline/1901/01/01/1/</id>
+    <published>1901-01-02T01:58:29.000Z</published>
+    <updated>2021-01-06T05:35:12.574Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><p>menu</p><h2 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>empty</title>
-    <link href="https://iseemii2.github.io/timeline/2019/01/04/1/"/>
-    <id>https://iseemii2.github.io/timeline/2019/01/04/1/</id>
-    <published>2019-01-05T01:58:29.000Z</published>
-    <updated>2021-01-06T03:15:56.083Z</updated>
-    
-    <content type="html"><![CDATA[<p><em>HIGHBALLS is 1 part liquor to 2 parts of mixer. 1oz 4 pours /1.5oz 6 pours /2oz 8pours</em></p><p>GLASSES: Standard/ English / Footed (page 27)</p><h3 id="highball"><a href="#highball" class="headerlink" title="highball"></a>highball</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">ice</span><br><span class="line">1 oz whiskey: Scotch&#x2F; Bourbon&#x2F; whiskey etc.</span><br><span class="line">Gingle Ale</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<h1 id="DAIQURI"><a href="#DAIQURI" class="headerlink" title="DAIQURI"></a>DAIQURI</h1><ol><li>1oz/6counts Rum</li><li>SourMix</li><li>shake</li><li>Cherry + Orange Slice</li></ol>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;em&gt;HIGHBALLS is 1 part liquor to 2 parts of mixer. 1oz 4 pours /1.5oz 6 pours /2oz 8pours&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;GLASSES: Standard/ English / Foote</summary>
+    <summary type="html">&lt;h1 id=&quot;DAIQURI&quot;&gt;&lt;a href=&quot;#DAIQURI&quot; class=&quot;headerlink&quot; title=&quot;DAIQURI&quot;&gt;&lt;/a&gt;DAIQURI&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;1oz/6counts Rum&lt;/li&gt;
+&lt;li&gt;SourMix&lt;/li&gt;
+&lt;li&gt;sh</summary>
       
     
     
     
+    <category term="SOURMIX" scheme="https://iseemii2.github.io/timeline/categories/SOURMIX/"/>
     
-    <category term="gin tonic" scheme="https://iseemii2.github.io/timeline/tags/gin-tonic/"/>
+    
+    <category term="RUM" scheme="https://iseemii2.github.io/timeline/tags/RUM/"/>
+    
+    <category term="SOURMIX" scheme="https://iseemii2.github.io/timeline/tags/SOURMIX/"/>
+    
+    <category term="DAIQUIRI" scheme="https://iseemii2.github.io/timeline/tags/DAIQUIRI/"/>
     
   </entry>
   
